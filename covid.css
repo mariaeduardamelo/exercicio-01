@@ -1,0 +1,21 @@
+body {
+    width: 1000px;
+    margin:5px auto;
+    background-color: aquamarine;
+    padding: 10px 10px 10px 10px;
+  }
+  h1 {
+    margin: 0;
+    padding: 5px 0;    
+    color: darkblue;
+    border: 3px solid black;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+  }
+  h2 {
+    margin: 0;
+    padding: 5px 0; 
+    color: black;
+    border: 3px solid black;
+    text-align: center;
+  }
